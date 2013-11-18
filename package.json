@@ -1,0 +1,28 @@
+{
+  "name": "rulesfor.us",
+  "version": "0.0.1",
+  "description": "house rules",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "~3.3.4"
+  },
+  "engines": {
+    "node": "0.10.x",
+    "npm": "1.3.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/davidgailey/rulesfor.us"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "rules"
+  ],
+  "author": "David Gailey",
+  "license": "MIT",
+  "gitHead": "8ff21dbb7fae0403695542487741ae226163acda"
+}
